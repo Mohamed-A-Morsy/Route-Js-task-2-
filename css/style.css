@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+}
+.heading{
+    font-size: 40px;
+}
+#btn{
+    width: 200px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+#btn:hover{
+    background-color: green;
+}
+.Event {
+    font-size: 20px;
+}
